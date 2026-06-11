@@ -48,9 +48,14 @@ I also have experience in Data Analytics using Power BI, Tableau, Excel, SQL, an
 
 ## 🚀 Projects
 
-### 📱 UnBwnd Maps
-Flutter, FastAPI, Firebase Authentication, PostgreSQL  
-A cross-platform mobile application with map-based features, authentication, and backend API integration.
+### 📱 Digital Village Maps Platform
+Flutter | FastAPI | PostgreSQL | Firebase Authentication
+
+Developed and enhanced map-based mobile application features.
+Implemented REST API integration between Flutter and FastAPI backend.
+Worked on authentication, location services, search functionality, and responsive UI design.
+Integrated PostgreSQL database operations and Firebase services.
+Improved user experience through map navigation, filtering, and place discovery features.
 
 ### 📊 E-Commerce Sales Dashboard
 Power BI, Data Analytics  
